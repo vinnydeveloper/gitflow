@@ -1,0 +1,7 @@
+{
+  "name": "gitflow",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/vinnydeveloper/gitflow.git",
+  "license": "MIT"
+}
